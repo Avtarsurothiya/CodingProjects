@@ -1,1 +1,1 @@
-Working Calculator with with all basci functionalities
+Working Calculator with with all basic functionalities
