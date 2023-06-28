@@ -1,3 +1,4 @@
+//script file
 var box = document.getElementById('box');
 box.style.top = Math.floor(Math.random() * 50).toString() + "px";
 box.style.left = Math.floor(Math.random() * 50).toString() + "px";
