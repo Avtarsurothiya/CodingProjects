@@ -1,0 +1,17 @@
+body {
+  background-image: linear-gradient(to right, rgb(107, 241, 73), yellow);
+  color: rgb(5, 5, 5);
+}
+#breakfast {
+  color: black;
+  background-color: yellow;
+}
+#lunch {
+  color: blue;
+  background-color: pink;
+}
+
+#dinner {
+  color: red;
+  background-color: black;
+}
